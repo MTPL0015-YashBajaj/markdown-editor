@@ -33,10 +33,10 @@ This project consists of two simple markdown editors implemented using React. Ea
 ## Screenshots
 
 ### Editor 1
-![Editor 1](https://drive.google.com/file/d/1w0x8ClVju9PCcnLNTYdsCK_SqLV5G1wi/view?usp=drive_link)
+![Editor 1](https://drive.google.com/uc?export=view&id=1w0x8ClVju9PCcnLNTYdsCK_SqLV5G1wi)
 
 ### Editor 2
-![Editor 2](https://drive.google.com/file/d/1uaUj8eBrHTNQg-xibWzk1U3OvKeBf8v0/view?usp=drive_link)
+![Editor 2](https://drive.google.com/uc?export=view&id=1uaUj8eBrHTNQg-xibWzk1U3OvKeBf8v0)
 
 ## Installation
 
