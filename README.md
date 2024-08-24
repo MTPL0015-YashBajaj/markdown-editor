@@ -1,11 +1,42 @@
+
 # Markdown Editors
 
-This project consists of two simple markdown editors implemented using React. One editor uses the `react-markdown` library to render markdown, while the other uses the `marked` library. Both editors provide real-time previews of the markdown content.
+This project consists of two simple markdown editors implemented using React. Each editor provides a real-time preview of the markdown content, but they use different libraries to render the markdown.
 
 ## Features
 
 - **Editor 1**: Uses `react-markdown` to render markdown content.
 - **Editor 2**: Uses `marked` to convert markdown to HTML and display it.
+
+## Functionality
+
+### Editor 1: `react-markdown`
+
+- **Description**: This editor uses the `react-markdown` library to render markdown content. It provides a clean and straightforward way to view markdown text as formatted HTML.
+- **How It Works**: 
+  - Type or paste markdown content into the textarea.
+  - The content is rendered in real-time in the preview pane using the `react-markdown` library.
+- **Features**:
+  - Supports standard markdown syntax including headers, lists, links, and images.
+  - Live preview updates as you type.
+
+### Editor 2: `marked`
+
+- **Description**: This editor utilizes the `marked` library to convert markdown text into HTML. The HTML is then injected into the preview pane.
+- **How It Works**:
+  - Type or paste markdown content into the textarea.
+  - The content is converted to HTML using the `marked` library and rendered in the preview pane.
+- **Features**:
+  - Supports a wide range of markdown syntax.
+  - Preview updates in real-time based on the markdown input.
+
+## Screenshots
+
+### Editor 1
+![Editor 1](https://drive.google.com/file/d/1w0x8ClVju9PCcnLNTYdsCK_SqLV5G1wi/view?usp=drive_link)
+
+### Editor 2
+![Editor 2](https://drive.google.com/file/d/1uaUj8eBrHTNQg-xibWzk1U3OvKeBf8v0/view?usp=drive_link)
 
 ## Installation
 
