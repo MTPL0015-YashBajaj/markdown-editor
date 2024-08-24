@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Markdown Editors
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project consists of two simple markdown editors implemented using React. One editor uses the `react-markdown` library to render markdown, while the other uses the `marked` library. Both editors provide real-time previews of the markdown content.
+
+## Features
+
+- **Editor 1**: Uses `react-markdown` to render markdown content.
+- **Editor 2**: Uses `marked` to convert markdown to HTML and display it.
+
+## Installation
+
+To get started with this project, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/MTPL0015-YashBajaj/markdown-editor.git
+
 
 ## Available Scripts
 
